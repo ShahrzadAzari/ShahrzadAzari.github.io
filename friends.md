@@ -9,7 +9,7 @@ comments: true
 ---
 
 ### friends :)
-* Kourosh Atamanesh
+* **Kourosh Atamanesh**
 * Maryam Khazaei 
 * Zahra Azhdari
 * Nazanin Akbari
