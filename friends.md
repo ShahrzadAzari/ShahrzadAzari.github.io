@@ -8,15 +8,16 @@ modified: 4-10-2019
 comments: true
 ---
 
-### دوستان
-* مریم خزایی
-* زهرا اژدری
-* نازنین اکبری
-* انسیه حجی زاده
-* هلیا قهرمان
-### هم کلاسی ها
-* زهرا امیری
-* فاطمه جلالوند
-* پریا فصاحت
-* نیوشا یقینی
+### friends :)
+* Kourosh Atamanesh
+* Maryam Khazaei 
+* Zahra Azhdari
+* Nazanin Akbari
+* Ensieh Hajizade
+* Helia Ghahreman 
+### classmates :) 
+* Zahra Amiri 
+* Fateme Jalalvand 
+* Paria Fasahat 
+* Niusha Yaghini
  
