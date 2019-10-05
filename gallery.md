@@ -7,22 +7,23 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/11.jpg
-    image_path: /assets/images/11.jpg
-    alt: "placeholder image 11"
-    title: "Image 11 title caption"
-  - url: /assets/images/111.jpg
-    image_path: /assets/images/111.jpg
-    alt: "placeholder image 111"
-    title: "Image 111 title caption"
-  - url: /assets/images/1111.jpg
-    image_path: /assets/images/1111.jpg
-    alt: "placeholder image 1111"
-    title: "Image 1111 title caption" 
   - url: /assets/images/1.jpg
     image_path: /assets/images/1.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "The caspian sea"
+  - url: /assets/images/2.jpg
+    image_path: /assets/images/2.jpg
+    alt: "placeholder image 2"
+    title: "Rasht bazaar"
+  - url: /assets/images/3.jpg
+    image_path: /assets/images/3.jpg
+    alt: "placeholder image 3"
+    title: "Holy Shrine"
+  - url: /assets/images/4.jpg
+    image_path: /assets/images/4.jpg
+    alt: "placeholder image 4"
+    title: "Gol Ramian"
+
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
