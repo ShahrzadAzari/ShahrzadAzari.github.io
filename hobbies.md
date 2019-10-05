@@ -9,7 +9,6 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
 * [books](https://www.bookrix.com/books;page:2.html)
 
 
