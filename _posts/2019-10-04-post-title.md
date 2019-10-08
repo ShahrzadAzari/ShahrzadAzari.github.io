@@ -9,17 +9,14 @@ title: ورودی 98
     image_path: /assets/images/01.jpg
     alt: "placeholder image 01"
     title: "چارت درسی"
-
   - url: /assets/images/02.jpg
     image_path: /assets/images/02.jpg
     alt: "بوم یادگاری"
     title: "Rasht bazaar"
-
   - url: /assets/images/03.jpg
     image_path: /assets/images/03.jpg
     alt: "placeholder image 03"
     title: "نقاشی روی کاشی"
-    
   - url: /assets/images/04.jpg
     image_path: /assets/images/04.jpg
     alt: "placeholder image 04"
