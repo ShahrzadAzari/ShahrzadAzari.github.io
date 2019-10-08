@@ -1,10 +1,12 @@
 ---
 layout: posts
 title: ورودی 98
+permalink: /gallery/
 ---
 
 مگه آدم چند بار کارشناسی قبول میشه که از جشنش لذت نبره..
 
+gallery:
   - url: /assets/images/01.jpg
     image_path: /assets/images/01.jpg
     alt: "placeholder image 01"
