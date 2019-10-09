@@ -8,6 +8,7 @@ title: ورودی 98
 ## جشن ورودی کامپیوتر دختران
 
 
+![an image alt text]({{ shahrzadazari.github.io }}/assets/images/01.jpg "an image title")
 
 
 ---
