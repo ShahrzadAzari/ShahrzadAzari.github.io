@@ -8,10 +8,12 @@ title: ورودی 98
 ## جشن ورودی کامپیوتر دختران
 
 
-![an image alt text]({{ shahrzadazari.github.io }}/assets/images/01.jpg "an image title")
+![an image alt text]({{ shahrzadazari.github.io }}/assets/images/01.jpg "چارت درسی")
+![an image alt text]({{ shahrzadazari.github.io }}/assets/images/02.jpg "بوم یادگاری")
+![an image alt text]({{ shahrzadazari.github.io }}/assets/images/03.jpg "نقاشی روی کاشی")
+![an image alt text]({{ shahrzadazari.github.io }}/assets/images/04.jpg "گل یادگاری")
 
-
-ممنون از همه ی دوستای باحال و جدیدم که اوقاتخوبی رو با هم و برای هم ساختیم
+ممنون از همه ی دوستای باحال و جدیدم که اوقات خوبی رو با هم و برای هم ساختیم
 
 ---
 
