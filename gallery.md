@@ -23,7 +23,14 @@ gallery:
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
     title: "Gol Ramian"
-
+  - url: /assets/images/5.jpg
+    image_path: /assets/images/5.jpg
+    alt: "placeholder image 5"
+    title: "Paragliding,Ramian"
+    - url: /assets/images/6.jpg
+    image_path: /assets/images/6.jpg
+    alt: "placeholder image 6"
+    title: "Sunset,Tehran"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}

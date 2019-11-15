@@ -10,6 +10,7 @@ comments: true
 
 ### friends :)
 * Kourosh Atamanesh
+* Negin Sheikhi
 * Maryam Khazaei 
 * Zahra Azhdari
 * Nazanin Akbari
@@ -20,4 +21,6 @@ comments: true
 * Fateme Jalalvand 
 * Paria Fasahat 
 * Niusha Yaghini
+* Amirhossein Samavat
+* Roozbeh Ghazavi
  
