@@ -27,7 +27,7 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Paragliding,Ramian"
-    - url: /assets/images/6.jpg
+  - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
     alt: "placeholder image 6"
     title: "Sunset,Tehran"
