@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/00.jpg"
   bio              : I'm a computer engineering student at IUST.
   location         : "Tehran"
-  calendly         : https://calendly.com/shahrzad2780
+  calendly         : calendly.com/shahrzad2780
   email            : shahrzad2780@gmail.com
   twitter:  
   linkedin         : shahrzad-azariazad-88b088195
@@ -122,6 +122,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
+    - label: "Calendly"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "https://your-calendly.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -144,6 +147,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "Calendly"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "https://your-calendly.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
