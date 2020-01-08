@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/6.jpg
     alt: "placeholder image 6"
     title: "Sunset,Tehran"
+  - url: /assets/images/ax.jpg
+    image_path: /assets/images/ax.jpg
+    alt: "placeholder image 6"
+    title: "Exam"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}

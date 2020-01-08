@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "https://your-calendly.com"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
