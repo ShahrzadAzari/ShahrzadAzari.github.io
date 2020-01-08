@@ -11,6 +11,6 @@ title: course website
 در اولین فرصت دوباره با ایشان تماس خواهم گرفت که مطالب را پیگیری کنم.  
 لینک سایت در پایین قرار داده شده است.  
 
-*[software_engeneering](https://shahrzadazari.github.io/software_engineering/)
+[software_engeneering](https://shahrzadazari.github.io/software_engineering/)
 
 ---
