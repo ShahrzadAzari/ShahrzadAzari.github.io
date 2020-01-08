@@ -72,16 +72,6 @@
           </a>
         </li>
       {% endif %}
-
-      {% if author.calendly %}
-        <li>
-          <a href="mailto:{{ author.calendly }}">
-            <meta itemprop="calendly" content="{{ author.calendly }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Calendly
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
