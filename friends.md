@@ -9,8 +9,9 @@ comments: true
 ---
 
 ### friends :)
-* Kourosh Atamanesh
 * Negin Sheikhi
+* Nargess Tavakoli
+* Hedieh Malekshahi
 * Maryam Khazaei 
 * Zahra Azhdari
 * Nazanin Akbari
@@ -18,9 +19,10 @@ comments: true
 * Helia Ghahreman 
 ### classmates :) 
 * Zahra Amiri 
-* Fateme Jalalvand 
+* Parmida Sanaye
 * Paria Fasahat 
 * Niusha Yaghini
 * Amirhossein Samavat
 * Roozbeh Ghazavi
+* Mohammad Mahdi Javid
  
