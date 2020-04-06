@@ -2,12 +2,12 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Friends"
-    url: /friends/
   - title: "Links"
     url: /links/
-  - title: "Hobbies"
-    url: /hobbies/  
+  - title: "Friends"
+    url: /friends/
+  # - title: "Hobbies"
+  #   url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
   - title: "Blog"

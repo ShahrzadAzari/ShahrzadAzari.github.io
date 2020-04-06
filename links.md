@@ -3,12 +3,12 @@ layout: single
 author_profile: true
 permalink: /links/
 title: Links
-tags: [Studying, courses]
+tags: [fun, tests]
 modified: 9-14-2019
 comments: false
 ---
 
 
-
-* [IUST](http://www.iust.ac.ir)
-
+* [How do you see me? :)](https://howyouseeme.site/users/ShahrzadAA)
+* [MBTI test](http://www.khodshenas.ir/MBTI/Test)
+* [ArcheTypes test](http://www.khodshenas.ir/ArcheTypes)

@@ -35,6 +35,14 @@ gallery:
     image_path: /assets/images/ax.jpg
     alt: "placeholder image 6"
     title: "Exam"
+  - url: /assets/images/pink.jpg
+    image_path: /assets/images/pink.jpg
+    alt: "placeholder image 6"
+    title: "Above the sky"
+  - url: /assets/images/barf.jpg
+    image_path: /assets/images/barf.jpg
+    alt: "placeholder image 6"
+    title: "Snowy day :)"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
