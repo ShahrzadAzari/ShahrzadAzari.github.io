@@ -8,9 +8,6 @@ modified: 9-14-2019
 comments: false
 ---
 
-## tests about me
-* [How do you see me? :)](https://howyouseeme.site/users/ShahrzadAA)
-
 ## tests about yourself
 * [MBTI test](http://www.khodshenas.ir/MBTI/Test)
 * [ArcheTypes test](http://www.khodshenas.ir/ArcheTypes)
