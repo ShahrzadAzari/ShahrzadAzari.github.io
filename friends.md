@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 author_profile: true
 permalink: /friends/
@@ -26,4 +26,4 @@ comments: true
 * Amirhossein Samavat
 * Roozbeh Ghazavi
 * Mohammad Mahdi Javid
- 
+  -->

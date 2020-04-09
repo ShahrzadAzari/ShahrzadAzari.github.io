@@ -6,8 +6,8 @@ main:
     url: /blog/
   - title: "Links"
     url: /links/
-  - title: "Friends"
-    url: /friends/
+  # - title: "Friends"
+  #   url: /friends/
   # - title: "Hobbies"
   #   url: /hobbies/  
   - title: "Gallery"
